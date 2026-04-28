@@ -1,0 +1,14 @@
+name = "JPerluxo Modpack"
+author = "JPerluxo"
+version = "1.0.0"
+description = "The definitive, lightweight environment to experience the JPerluxo Mod."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c5cbd7d4dd2f61d1e1c3437a0702caa9c11fc64133fdc2f972a737123d9a246b"
+
+[versions]
+forge = "36.2.42"
+minecraft = "1.16.5"

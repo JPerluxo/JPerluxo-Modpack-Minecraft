@@ -1,0 +1,6 @@
+# Dev files
+.vscode/
+.git/
+.gitignore
+.gitattributes
+README.md

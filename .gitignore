@@ -1,0 +1,10 @@
+# Exported Modrinth modpacks
+*.mrpack
+
+# Local VSCode files
+.vscode/*
+!.vscode/tasks.json
+packwiz.exe
+
+# Physical mods
+*.jar
