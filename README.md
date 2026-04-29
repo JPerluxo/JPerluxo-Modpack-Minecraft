@@ -4,7 +4,7 @@
 
 The definitive, lightweight environment to experience the [JPerluxo Mod](https://modrinth.com/mod/jperluxo-mod).
 
-[![Modrinth](https://img.shields.io/badge/Download_on_Modrinth-gray?style=for-the-badge&logo=modrinth)](#)
+[![Modrinth](https://img.shields.io/badge/Download_on_Modrinth-gray?style=for-the-badge&logo=modrinth)](https://modrinth.com/modpack/jperluxo-modpack)
 
 ⚠️ **Requirements:**
 - You need a launcher that supports `.mrpack` files, such as Modrinth App, Prism Launcher, MultiMC, or ATLauncher
@@ -32,7 +32,7 @@ The definitive, lightweight environment to experience the [JPerluxo Mod](https:/
 
 ## Release
 1. **Download JPerluxo Modpack:**
-  - Get the latest release of the modpack from [Modrinth](#) or the [Releases page](https://github.com/jperluxo/jperluxo-modpack-minecraft/tree/main/releases).
+  - Get the latest release of the modpack from [Modrinth](https://modrinth.com/modpack/jperluxo-modpack) or the [Releases page](https://github.com/jperluxo/jperluxo-modpack-minecraft/tree/main/releases).
 
 2. **Import the `.mrpack` file into a compatible launcher:**
   - In Modrinth App: click **"Add instance" → "From file"**
