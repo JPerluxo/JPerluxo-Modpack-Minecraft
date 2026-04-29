@@ -1,5 +1,6 @@
 # Exported Modrinth modpacks
 *.mrpack
+!releases/*.mrpack
 
 # Local VSCode files
 .vscode/*
