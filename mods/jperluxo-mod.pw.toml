@@ -1,0 +1,13 @@
+name = "JPerluxo Mod"
+filename = "jperluxomod-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1MxJr8e/versions/xhp5x41U/jperluxomod-1.3.5.jar"
+hash-format = "sha512"
+hash = "6960057a0c3539aaf36d23a1387e8489eda9c71ed6d84d6b4f42ef8c0815ae7cd09022a016131160125a924c0c51ac010041551425288d3df502ec5ecaabae69"
+
+[update]
+[update.modrinth]
+mod-id = "n1MxJr8e"
+version = "xhp5x41U"

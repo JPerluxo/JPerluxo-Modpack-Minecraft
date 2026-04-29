@@ -3,3 +3,68 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "1f05de818c378561c59571844e25d044a3dd2a90412fe1e640ef849a64dd729b"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "082cbc1012b600b44a63d5a50a7af1cfbf88f118b814f64ee137421a290c7100"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "30275ea67fa91651f14fff559839e7f227121cc391fd6274ff5d05a302bdbf46"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "e8e7846c57999fa08857ce21618cca9b53eaf5a13a16500be5a4da0298d41d32"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "5a6add1a0bb9a28083fce455877c855f7dcdeefbd599ff77ad181a31f0315ed0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "62d71fb79fecff99dcaf7bfa718f7b8735980037b65e87609f7d0bcdd878cf23"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "407755a5f4b737f5d4d7a16536986290bb9a7703cc292e797b9dbcc5f7257aa8"
+metafile = true
+
+[[files]]
+file = "mods/jperluxo-mod.pw.toml"
+hash = "26ae064540c5463bb169d3bd98324fa23e8a84acea3327134e50e195159500ce"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "c7b3c8b51d25958e995e08b9b50a9833bc3deb9ab2d8a4c432e5314d3939ef0f"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "9b3d3845594a938f14b957a0cb0564858add1dd92c62e0c2da4d4c163f993683"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c3b9dadd4044bd0cc92f11cb6fc4b2510a6439deb827d2db043e52cbe75303d1"
+metafile = true
+
+[[files]]
+file = "mods/xaerolib.pw.toml"
+hash = "3070a02fdce7a3ae077c237b6656cb797c9721fcfd42b10b703ba4e60802b089"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "3e2c489394591b0972297aab18b88e10e9f62ade46f57eca7313aba7f83b89b3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "537b914bcff6f5e0f8b5cc2b8fae5f6bd9edd4bad698d313bd64b634decca87c"
+metafile = true

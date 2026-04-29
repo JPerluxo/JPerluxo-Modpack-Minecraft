@@ -22,7 +22,6 @@
       "type": "shell",
       "command": "${workspaceFolder}/packwiz.exe",
       "args": ["refresh"],
-      "group": "build",
       "presentation": {
         "reveal": "always",
         "panel": "shared"
@@ -52,6 +51,28 @@
         "remove",
         "${input:modName}"
       ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Packwiz: update mod",
+      "type": "shell",
+      "command": "${workspaceFolder}/packwiz.exe",
+      "args": ["update", "${input:modName}"],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "Packwiz: generate .mrpack",
+      "type": "shell",
+      "command": "${workspaceFolder}/packwiz.exe",
+      "args": ["modrinth", "export"],
+      "group": "build",
       "presentation": {
         "reveal": "always",
         "panel": "shared"
