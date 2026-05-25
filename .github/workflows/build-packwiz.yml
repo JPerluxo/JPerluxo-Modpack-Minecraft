@@ -1,0 +1,30 @@
+name: Build packwiz.exe
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout packwiz source
+        uses: actions/checkout@v4
+        with:
+          repository: packwiz/packwiz
+          path: packwiz-src
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Build packwiz.exe
+        working-directory: packwiz-src
+        run: go build -o ../packwiz.exe
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: packwiz-exe
+          path: packwiz.exe

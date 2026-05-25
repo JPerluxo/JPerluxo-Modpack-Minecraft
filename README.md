@@ -19,11 +19,19 @@ The definitive, lightweight environment to experience the [JPerluxo Mod](https:/
     cd jperluxo-modpack-minecraft
   ```
 
-2. **Open in VS Code:**
-  - The repo already provides [.vscode/tasks.json](/.vscode/tasks.json) with useful tasks.
-  - Run **Setup: download packwiz** once to download `packwiz.exe`.
+2. Open the repository in VS Code.
 
-3. **Available tasks:**
+3. Run the GitHub Actions workflow **Build packwiz.exe** once:
+  - Open the repository on GitHub.
+  - Go to the **Actions** tab.
+  - Select **Build packwiz.exe**.
+  - Click **Run workflow**.
+
+4. Download the `packwiz-exe` artifact from the workflow run.
+
+5. Extract `packwiz.exe` and place it in the repository root.
+
+6. **Available tasks:**
   - Packwiz: add mod — add a new mod to the pack.
   - Packwiz: remove mod — remove an existing mod.
   - Packwiz: update mod — update a specific mod.
