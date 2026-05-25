@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "1f05de818c378561c59571844e25d044a3dd2a90412fe1e640ef849a64dd729b"
+hash = "554aa85ea348192ad173abfb3d78d936a27c978f29dd098e8be548c6d23ca231"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -56,15 +56,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaerolib.pw.toml"
-hash = "3070a02fdce7a3ae077c237b6656cb797c9721fcfd42b10b703ba4e60802b089"
+hash = "38ac2b90f848d09de85c8bd8421a3518b665a38bf6c563b7e79c4ae09a41b551"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3e2c489394591b0972297aab18b88e10e9f62ade46f57eca7313aba7f83b89b3"
+hash = "8bbebbcb8ab94e7e1861e29f7591211d472fbdf8d35a1c9c424b7372654f6271"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "537b914bcff6f5e0f8b5cc2b8fae5f6bd9edd4bad698d313bd64b634decca87c"
+hash = "0cc0e579de9e24a6b96a759e57236fd8fcbc7617d3d69da862ae2aee704f4e9b"
 metafile = true

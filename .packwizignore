@@ -1,6 +1,9 @@
 # Dev files
 .vscode/
 .git/
+.github/
+releases/
+releases/older versions/
 .gitignore
 .gitattributes
 README.md

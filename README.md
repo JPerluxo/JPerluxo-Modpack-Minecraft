@@ -1,5 +1,5 @@
 # JPerluxo Modpack
-![Version](https://img.shields.io/badge/Version-1.0.0-white.svg)
+![Version](https://img.shields.io/badge/Version-1.0.5-white.svg)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-white.svg?labelColor=52a535&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB30lEQVR4nO2dQWrDUBBD53gJvf8F0t5Dpcv/NzVUVuX4PdAugpmRlYA3mQEAAAAAAACAbj5m5mtmhObMG3zOzPNIID8fJIyJ3OB1JBDCmOgNCGQuHgh4IZAyCKQMAimDQMogkDIIpAwCKYNAyiCQMgikDAK5eyDxl28Xm49ANgiEhizQkA0aQkMWaMgGDaEhCzRkg4bQkAUaskFDaMgCDdmgITRkgYZs0BAaskBDNmgIDVmgIRs0hIYs0JC7N+TdDuiGQIZATn2iREP+FxFId8VFQwjECT/q0914v+FkxFcWgZwJDZnuB8xvMA2mMqX29htMg6lMqb39BtNgKlNqb7/BNJjKlNrbbzANpjKl9vYbTIOpTKm9/QbTYCpTam+/wTSYypTa228wDaYypfb2G0yDqUypvf0G02AqU2pvv8E0mMqU2ttvMA2mMqX29htMg6lMqb39BtNgKlNqb7/BNJjKlNrbbzANpjKl9vYbTIOpTKm9/QbTYCpTam+/wTSYypTa228wDabQYQik7DCiIV2HEYF0HUYE0nUYEUjXYUQgXYcRgXQdRgTSdRgRSNdhRCBwiVcnd0UE0gWBvFsgaE69AYFM10P2K/zB/XT9wf2TUCYVxuNIIAAAAAAwf+QbD2H/7GI71IEAAAAASUVORK5CYII=)
 
 The definitive, lightweight environment to experience the [JPerluxo Mod](https://modrinth.com/mod/jperluxo-mod).
@@ -68,6 +68,10 @@ For more details, see the [LICENSE](LICENSE) file.
 <details>
 <summary>Changelog</summary>
 
+## [1.0.5] - 2026-05-25
+### Updated
+- Updated Xaero's Minimap, Xaero's World Map, XaeroLib
+
 ## [1.0.0] - 2026-04-29
 ### Added
 - Initial build. Containing:
@@ -86,5 +90,6 @@ For more details, see the [LICENSE](LICENSE) file.
   - xaeros-world-map
 
 
+[1.0.5]: https://github.com/jperluxo/jperluxo-modpack-minecraft/compare/1.0.0...1.0.5
 [1.0.0]: https://github.com/jperluxo/jperluxo-modpack-minecraft/releases/tag/1.0.0
 </details>

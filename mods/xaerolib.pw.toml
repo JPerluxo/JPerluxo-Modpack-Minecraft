@@ -1,13 +1,13 @@
 name = "XaeroLib"
-filename = "xaerolib-forge-1.16.5-1.1.0.jar"
+filename = "xaerolib-forge-1.16.5-1.1.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZaQIxZKn/versions/BEUu31gn/xaerolib-forge-1.16.5-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/ZaQIxZKn/versions/8y3O3NWp/xaerolib-forge-1.16.5-1.1.15.jar"
 hash-format = "sha512"
-hash = "263137f3269e634d6073fb0a0856e4822297a1a342cfcd9f0e08329c55bbb43fc6be52c5435caa3c34edee35b7bf9c48f03910ca4d79f6671e75b01eb9e689e8"
+hash = "c22fa1fd725338f649042b0e7bc93dd56eed4d979694575a1c2f578bd95f6b5c7ae74b8b805892c99c2fe59fcf5b980f708139ad67c90e6ed2583c11f4594324"
 
 [update]
 [update.modrinth]
 mod-id = "ZaQIxZKn"
-version = "BEUu31gn"
+version = "8y3O3NWp"
