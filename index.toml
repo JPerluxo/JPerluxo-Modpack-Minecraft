@@ -10,6 +10,11 @@ hash = "082cbc1012b600b44a63d5a50a7af1cfbf88f118b814f64ee137421a290c7100"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "540354e40f6d385b2e8f13ca325004625bfc72ea6025141d04a00679ed0a9a35"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "30275ea67fa91651f14fff559839e7f227121cc391fd6274ff5d05a302bdbf46"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c3b9dadd4044bd0cc92f11cb6fc4b2510a6439deb827d2db043e52cbe75303d1"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "912887fb6a497bdd37a0bcc9cf1493415dd3d9c442b4f5fe4ae2d4a72fa5ae8a"
 metafile = true
 
 [[files]]

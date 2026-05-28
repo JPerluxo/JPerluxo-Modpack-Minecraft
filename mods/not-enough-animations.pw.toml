@@ -1,0 +1,13 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-forge-1.9.3-mc1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/XUvmWJbt/notenoughanimations-forge-1.9.3-mc1.16.5.jar"
+hash-format = "sha512"
+hash = "75fabf471d1c6b30832daa32c145566a281bd8157467c057f24f2b36e839ab49b03e5376654809df36ded2f965c58425f56ca651d5a6a8178d77785bbb5edaef"
+
+[update]
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "XUvmWJbt"
