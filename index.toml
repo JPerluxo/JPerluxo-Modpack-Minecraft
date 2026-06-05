@@ -55,6 +55,11 @@ hash = "9b3d3845594a938f14b957a0cb0564858add1dd92c62e0c2da4d4c163f993683"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "2b21eed6eac15a58d21599d2522477150559aa24ee4835a79ade53f2adfab4c7"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c3b9dadd4044bd0cc92f11cb6fc4b2510a6439deb827d2db043e52cbe75303d1"
 metafile = true
@@ -78,3 +83,31 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "0cc0e579de9e24a6b96a759e57236fd8fcbc7617d3d69da862ae2aee704f4e9b"
 metafile = true
+
+[[files]]
+file = "resources/minecraft/texts/splashes.txt"
+hash = "71a76e20055bba5d1da757ad0c289a54943462d269179ea17710078fcad23549"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "f089791dcdd4fb11f782b572518df81e7e19db4b3fde77dc1b54b64bdbbc1e7b"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "875cd5b4300ca681555f6a631d4c8fadfd1231e6eeea5de1627f3d0a09415278"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "1505572d9a3080ef13160aded7e18b3befe486ffd3c46d9b8cc00aeb22956485"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "6d4a4853954363da49a692f5dd223263087a2f410d0a34bb61adab0b4180ce17"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "c2ac0504b63074b48820c1fb15c15523fde83574b389d25a2a921e321dd2d9e7"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "4af8b29c36d9e4409dfa95e2c25c2c4582b0e030472f18812ee4976e89aefa08"
