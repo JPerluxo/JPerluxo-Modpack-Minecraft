@@ -76,38 +76,46 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8bbebbcb8ab94e7e1861e29f7591211d472fbdf8d35a1c9c424b7372654f6271"
+hash = "b54a944b39aefd119f5af9f9161a0233305e1234018ddf438f7c92c3dd7a506d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0cc0e579de9e24a6b96a759e57236fd8fcbc7617d3d69da862ae2aee704f4e9b"
+hash = "02fd50d097c85c4f4ebfb9fc0ad2d58cb33eaef99b2f6318306bf0505bc661ae"
 metafile = true
 
 [[files]]
 file = "resources/minecraft/texts/splashes.txt"
-hash = "5eeb1b80b81001b40d33935acc45a5ab5c24a1b434728fe35c10f0d1011c67b6"
+hash = "b778cd8cf6bf17aadac9b0610ed94904c0ba93c1ed748b42334e35e0bce7935b"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "4a5100635bbf4496994e5812ac73c286e03265a1419d65295f5eba03226b02f9"
+hash = "14112b8d118ba234bf2ebd97d52d1f3b0f7c4385a5de49379e82e784907b7867"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "f50ef11626dde496910c44a8db68722d4224844c62d57d8561abd722d1fc365e"
+hash = "0d8142a0712f11e81cbacd258acecc546d61a21de238a93dec4bbea63cae32ed"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "d1442abcfb734911e56a5e32de3067f23fac9eae52bd4f747764536e7cde1184"
+hash = "29c453a2aad1f60aa6f4d5e8d6c0a7041d9e285c1f26e328537762aa3c06dfb5"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "0bd8eef8931d304199eaaf66a70abd861fc06934a10129f6adf916e927626a99"
+hash = "e55ca5a0d03f4e4c5fc5b147ca5d6b68e80fbc3dd87d38b77aeef36be6c38928"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "408b80a35d5dc18a84b1bf4182627f5256fb0592de0ee015ff9c2a0bb4b10ba9"
+hash = "6d1b33b8ebf024302a699d26a4c7228b8f35e5f7a207da95433717397c4a3099"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "fbd95d9de67c9ee2456280985713cafd5cefa51f068b98a8b54a82cc28de9010"
+hash = "0d9bda70f981c76721e14cef742548f2cb7339362c9317181d6f45d198be1afa"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/edition.png"
+hash = "f0344b2fda98826bf6fb4148bb9209816608504ba2f4c6a252c728d97b8871b3"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/minecraft.png"
+hash = "994183464a997b3aa006b9e306a2e42633f74c542d0a503fdb9c3af2f9968670"

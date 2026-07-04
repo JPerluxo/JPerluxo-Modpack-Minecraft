@@ -1,13 +1,13 @@
 name = "Xaero's Minimap"
-filename = "xaerominimap-forge-1.16.5-25.3.13.jar"
+filename = "xaerominimap-forge-1.16.5-26.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bokaNcj/versions/SzzjQ7UM/xaerominimap-forge-1.16.5-25.3.13.jar"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/jl4nVkqy/xaerominimap-forge-1.16.5-26.1.0.jar"
 hash-format = "sha512"
-hash = "899239fffca67596556380799fbd3c175424ffde7ebb854dcd4a48c598139e33abf5aabc98ad74e62d001303773fb56dc4701a1c73e6cf20f389410e4f1263be"
+hash = "c3c50edb4b06ef3b538a768447f354ad493a7f1083236af724be9dd3d340335357e2e522565e113cb6decb055d459c9fd4b616d9ffb54bd4f47c431f60f83a82"
 
 [update]
 [update.modrinth]
 mod-id = "1bokaNcj"
-version = "SzzjQ7UM"
+version = "jl4nVkqy"
