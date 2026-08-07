@@ -40,7 +40,7 @@ The definitive, lightweight environment to experience the [JPerluxo Mod](https:/
 
 ## Release
 1. **Download JPerluxo Modpack:**
-  - Get the latest release of the modpack from [Modrinth](https://modrinth.com/modpack/jperluxo-modpack) or the [Releases page](https://github.com/jperluxo/jperluxo-modpack-minecraft/tree/main/releases).
+  - Get the latest release of the modpack from [Modrinth](https://modrinth.com/modpack/jperluxo-modpack) or the [Releases page](https://github.com/JPerluxo/JPerluxo-Modpack-Minecraft/releases).
 
 2. **Import the `.mrpack` file into a compatible launcher:**
   - In Modrinth App: click **"Add instance" → "From file"**
