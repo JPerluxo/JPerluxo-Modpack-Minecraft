@@ -5,8 +5,17 @@ file = "LICENSE"
 hash = "554aa85ea348192ad173abfb3d78d936a27c978f29dd098e8be548c6d23ca231"
 
 [[files]]
+file = "config/bettertitlescreen-client.toml"
+hash = "f77b01b64f9e6a2f1b68bba60ee247ac45fc6f1a0e147f1024d87c7a03045531"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "082cbc1012b600b44a63d5a50a7af1cfbf88f118b814f64ee137421a290c7100"
+metafile = true
+
+[[files]]
+file = "mods/bettertitlescreen.pw.toml"
+hash = "dbee8c1a760d288b7f177b88000588e252a6b86c9e968a487a5e8012460ee733"
 metafile = true
 
 [[files]]
@@ -71,17 +80,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaerolib.pw.toml"
-hash = "38ac2b90f848d09de85c8bd8421a3518b665a38bf6c563b7e79c4ae09a41b551"
+hash = "fbf42613847e9def8bbd52ba793c799da61bbf745e68d6833a39bd7c22371e8e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b54a944b39aefd119f5af9f9161a0233305e1234018ddf438f7c92c3dd7a506d"
+hash = "8910bc02d9e2e959546f2ffe837be8a218b618ad11f9c67f9fa83e34f3449e3a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "02fd50d097c85c4f4ebfb9fc0ad2d58cb33eaef99b2f6318306bf0505bc661ae"
+hash = "17b0ebb5df179e900da3f7be5462a0e5dfaa36a7f53620ddc08e5732a472bcd1"
 metafile = true
 
 [[files]]

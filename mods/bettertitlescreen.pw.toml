@@ -1,0 +1,13 @@
+name = "Better Title Screen"
+filename = "BetterTitleScreen-1.16.4-1.10.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ui5BchwQ/versions/6en0Oc3s/BetterTitleScreen-1.16.4-1.10.2.jar"
+hash-format = "sha512"
+hash = "f52418c7355597886747194b9dbb092256558307d4d6b142a91915ece9900cfd3d1f833b30a87076939eb89a8c2eb28a40e62d408496ac52b9a6242895355841"
+
+[update]
+[update.modrinth]
+mod-id = "ui5BchwQ"
+version = "6en0Oc3s"
