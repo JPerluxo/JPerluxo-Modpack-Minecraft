@@ -6,7 +6,7 @@ hash = "554aa85ea348192ad173abfb3d78d936a27c978f29dd098e8be548c6d23ca231"
 
 [[files]]
 file = "config/bettertitlescreen-client.toml"
-hash = "f77b01b64f9e6a2f1b68bba60ee247ac45fc6f1a0e147f1024d87c7a03045531"
+hash = "eff1cdf3877334a2749df75567a7932f64936d747c631a2f7cbfea8f6473238b"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
